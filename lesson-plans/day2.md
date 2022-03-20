@@ -8,7 +8,7 @@
 
 ## Learning styles (40)
 
-* Watching
+* Observing
     * In the makerspace
     * Youtube, etc...
 * Doing
