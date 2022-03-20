@@ -1,12 +1,13 @@
 # Day 1 - Makerspaces INF197
 
-## Introduction (30)
+## Introduction and Ice Breaker (30)
 
 * whoami 
     
     * educational background
     * my day job
     * other experience
+    * a social engineer and mechanic
     * a theory - how to get the most out of any class at university
 
 * who are you 
@@ -20,7 +21,10 @@
 * respect 
 
     * keep the space clean
-    * respect other peoples projects and ideas
+    * active projects are all over the space
+    * ideas may be fragile
+    * do your best
+    * don't be a jerk
 
 * participation
 
@@ -34,6 +38,9 @@
     * awareness
 
 * learning the lingo
+
+    * talking the talk
+    * walking the walk
 
 ## Making and Discussion (135)
 
@@ -50,12 +57,13 @@
 
 * Discussion 
 
+    * Showcase
     * Final projects
         * Materials selection
             * use at least 2 of the tools/methods from the course
-        * Critique style in-class presentation on day4
+        * Critique style in-class presentation on [day4](./day4.md)
         * Projects are individual not as a group
-        * 
+        
 
     * Will the thing you selected/designed actually print
 

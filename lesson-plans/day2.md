@@ -1,41 +1,52 @@
 # Day 2 - Makerspaces INF197
 
-## Fundamentals Reminders
+## Fundamentals Reminders (10)
 
 * Safety
 * Respect
 * Keeping it clean
 
-## 3D Printing Continued
+## Learning styles (40)
 
-    * Printing process
-        * Design
-        * Slice
-        * Print
-    * Software options
-        * Design
-            * Tinkercad
-            * Fusion360
-            * OpenSCAD
-            * others ...
-        * Slicing
-            * Prusa Slicer
-            * others ...
-    * Printer designs
-        * FDM
-            * Core X/Y
-            * Mendel
-            * Delta
-            * others ...
-        * SLA
-        * SLS
+* Watching
+    * In the makerspace
+    * Youtube, etc...
+* Doing
+    * Be safe!
+    * Know the risks
+    * Making mistakes
+    * Succeeding
+    * Sharing
+
+## 3D Printing Continued (50)
+
+* Printing process
+    * Design
+    * Slice
+    * Print
+* Software options
+    * Design
+        * Tinkercad
+        * Fusion360
+        * OpenSCAD
         * others ...
+    * Slicing
+        * Prusa Slicer
+        * others ...
+* Printer designs
+    * FDM
+        * Core X/Y
+        * Mendel
+        * Delta
+        * others ...
+    * SLA
+    * SLS
+    * others ...
 
-## Plotters
+## Activities (80)
+All of these activities will involve combining the learning styles
 
-    * Vinyl and paper cutting with the Cricut
-    * Design and print 
-        * [Follow these steps](../day2/cricut-steps.md)
-
-
-## 
+* Button maker 
+* Lego kits 
+* Paracord
+* Merge Cube
