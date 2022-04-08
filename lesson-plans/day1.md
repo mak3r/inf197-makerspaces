@@ -1,6 +1,11 @@
 # Day 1 - Makerspaces INF197
 
-## Introduction and Ice Breaker (30)
+## Class Intro Video Rolling
+
+* Makers talk about making projects on video
+* https://www.youtube.com/watch?v=O46YXpILvg4
+
+## Introduction (10)
 
 * whoami 
     
@@ -8,13 +13,50 @@
     * my day job
     * other experience
     * a social engineer and mechanic
-    * a theory - how to get the most out of any class at university
+    * my homework
+        * lesson plans change
+        * delivering services to you
+        * guide experience not rote exercise
+
+## Review the syllabus (20)
+
+* Grading
+* Showcase
+* Final projects
+    * Materials selection
+    * Critique style in-class presentation on [day4](./day4.md)
+    * Projects are individual not as a group
+
+## Introductions (40)
 
 * who are you 
 
-    * what are you doing here?
+    * what are you working on?
     * share any collaboration experience
-    * what do you make
+    * what else do you make?
+
+* what is a makerspace
+
+    * community resource to make things
+    * often grassroots 
+        * uses people as the basis for change/movement/growth
+    * home to tools for making things
+    * ...
+
+
+## Meet Some Makers - YouTube (30)
+
+* Discuss
+
+Simone Giertz
+https://www.youtube.com/watch?v=0Z8nfEOJS6M
+
+Tom Stanton
+https://www.youtube.com/watch?v=_4TGb3MsSjE
+
+Women Makers on YouTube
+https://beckystern.com/2020/12/12/big-list-of-women-makers-on-youtube/
+
 
 ## Fundamentals to the makerspace (15)
 
@@ -42,29 +84,29 @@
     * talking the talk
     * walking the walk
 
-## Making and Discussion (135)
 
-* Introduction to 3D printing
+## Guided Project Selection - In the Makerspace (65)
 
-    * Safety around the 3d printer
-    * In an emergency
+* Blue (Self Directed)
+    * Electronics
+        * littleBits
+        * Makey makey
 
-* Use the 3D printer
+* Yellow (Self Directed and Lessons)
+    * Makerspace Education / Teaching
+    * Merge Cube
+    * Button Maker
+    * Turing tumble
 
-    * 3D Printing a fidget ring
-        * [Follow these steps](../day1/3d-fidget-ring-steps.md)
-    * Selecting a pre-designed printable project
+* Green (Lessons)
+    * 3D Printing
+    * Cricut
 
-* Discussion 
+* Purple (Self Directed)
+    * Robots 
+    * Lego Mindstorms
+    * Logic Programming
 
-    * Showcase
-    * Final projects
-        * Materials selection
-            * use at least 2 of the tools/methods from the course
-        * Critique style in-class presentation on [day4](./day4.md)
-        * Projects are individual not as a group
-        
+* Orange
+    * Help, I have no idea
 
-    * Will the thing you selected/designed actually print
-
-    * Experiential discussion / Q&A
