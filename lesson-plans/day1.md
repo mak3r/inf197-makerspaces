@@ -12,6 +12,9 @@
     * educational background
     * my day job
     * other experience
+        * gaming
+        * bicycles
+        * 3d printing
     * a social engineer and mechanic
     * my homework
         * lesson plans change
